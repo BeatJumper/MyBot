@@ -21,6 +21,8 @@ MyBot/
 
 开始开发前请先阅读 [AGENTS.md](AGENTS.md)。
 
+创建开发分支、提交、合并和清理分支的操作流程参见 [GIT_SOP.md](GIT_SOP.md)。
+
 ## 当前状态
 
 - 已统一项目根目录为 `/home/admin/MyBot`
